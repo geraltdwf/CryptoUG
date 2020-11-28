@@ -1,0 +1,13 @@
+G:\Studia\CA\obj\Debug\netcoreapp3.1\CA.csprojAssemblyReference.cache
+G:\Studia\CA\obj\Debug\netcoreapp3.1\CA.csproj.CoreCompileInputs.cache
+G:\Studia\CA\obj\Debug\netcoreapp3.1\CA.AssemblyInfoInputs.cache
+G:\Studia\CA\obj\Debug\netcoreapp3.1\CA.AssemblyInfo.cs
+G:\Studia\CA\bin\Debug\netcoreapp3.1\CA.exe
+G:\Studia\CA\bin\Debug\netcoreapp3.1\CA.deps.json
+G:\Studia\CA\bin\Debug\netcoreapp3.1\CA.runtimeconfig.json
+G:\Studia\CA\bin\Debug\netcoreapp3.1\CA.runtimeconfig.dev.json
+G:\Studia\CA\bin\Debug\netcoreapp3.1\CA.dll
+G:\Studia\CA\bin\Debug\netcoreapp3.1\CA.pdb
+G:\Studia\CA\obj\Debug\netcoreapp3.1\CA.dll
+G:\Studia\CA\obj\Debug\netcoreapp3.1\CA.pdb
+G:\Studia\CA\obj\Debug\netcoreapp3.1\CA.genruntimeconfig.cache
